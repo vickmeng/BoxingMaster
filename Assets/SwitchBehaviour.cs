@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class SwitchBehaviour : StateMachineBehaviour
 {
-    public string CurStatus = "Break";
+    public string CurStatus = "Fight";
     // 当前状态持续的帧数
     private int CurStatusKeepFrames = 600;
 
